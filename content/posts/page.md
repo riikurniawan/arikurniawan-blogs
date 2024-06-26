@@ -10,7 +10,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 cover:
-    image: "/post.jpg" # image path/url
+    image: "post.jpg" # image path/url
     alt: "cover post" # alt text
     caption: "caption image post" # display caption under cover
     relative: false # when using page bundles set this to true
